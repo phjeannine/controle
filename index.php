@@ -12,7 +12,7 @@ if ('identification' === $_GET['page']
 }
 
 require 'include/connexion.php';
-
+//COMMENTAIRE
 
 ?>
 <!DOCTYPE html>

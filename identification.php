@@ -19,6 +19,7 @@ if (isset($_POST['identifier'])) {
             exit();
         }
     }
+    //COMMENTAIRE
 }
 
 header('Location: index.php?page=identification.php&error=1');
